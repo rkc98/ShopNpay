@@ -1,3 +1,5 @@
+// import blogo from '../images/background.jpeg'
+
 export const Header = (props) => {
   return (
     <header id='header'>
