@@ -84,7 +84,7 @@ hr {
 #menu.navbar-default .navbar-nav > li > a {
 	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
-	color: #555;
+	color: rgba(75, 119, 216, 0.877);
 	font-size: 15px;
 	font-weight: 400;
 	padding: 8px 2px;
@@ -186,8 +186,10 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	display: table;
 	width: 100%;
 	padding: 0;
-	background: url(../img/intro-bg.jpg) center center no-repeat;
-	background-color: #e5e5e5;
+	/* background:  url(../img/background.jpeg) center center no-repeat;  */
+	background-image: linear-gradient( to right bottom, rgba(150, 218, 229, 0.966),
+    rgba(58, 146, 218, 0.404)), url(../img/background.jpeg);
+	 background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -199,7 +201,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .intro h1 {
 	font-family: 'Raleway', sans-serif;
 	color: #fff;
-	font-size: 82px;
+	font-size: 50px;
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-top: 0;
