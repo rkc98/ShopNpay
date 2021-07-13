@@ -200,7 +200,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .intro h1 {
 	font-family: 'Raleway', sans-serif;
-	color: rgba(191, 226, 35, 0.966);
+	color: #fff;
 	font-size: 50px;
 	font-weight: 700;
 	text-transform: uppercase;
