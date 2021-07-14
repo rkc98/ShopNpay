@@ -1,27 +1,24 @@
 {
     "Header": {
-
         "title": "digitize Your Payments with shopnpay"
-
-
     },
     "About": {
-        "paragraph": "Shop N pay helps you to collect oline payment from your consumer for every sale with just a click of a message"
-        ,
+        "paragraph": "Shopnpay helps you to collect online payment from your consumer for every sale with just a click of a message.",
         "Why": [
-            "Cashless",
-            "Ditialization",
-            "Avoid change issues",
-            "Security"
+            "Transform your business digitally.",
+            "Easy to use.",
+            "100% safe and secure.",
+            "Cashless."
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Secure & reliable.",
+            "Notify the customer.",
+            "Send the payment link to the customer.",
+            "Get the payment via credit card, debit card, netbanking, phonepay etc."
         ]
     },
-    "Services": [{
+    "Services": [
+        {
             "icon": "fa fa-money",
             "name": "Real Time Transaction",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
@@ -51,36 +48,32 @@
             "name": "Consectetur adipiscing",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         }
-
-
     ],
-    
-       
     "Contact": {
-        "address": "B 117, Eastern Business District, Neptune, LBS Marg, Bhandup West, Mumbai - 400078",
+        "address": "KURUVILA BPO INDIA PRIVATE LIMITED B 117, Eastern Business District, Neptune, LBS Marg, Bhandup West, Mumbai - 400078",
         "phone": "00000000",
         "email": "connect@kuruvilaindia.com"
-        
     },
-    "Features": [{
+    "Features": [
+        {
             "icon": "fa fa-comments-o",
             "title": "Share payments on message",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "text": "ShopNpay allow the shop owner the convenience to send a payment link to his customer to collect payment."
         },
         {
             "icon": "fa fa-bullhorn",
             "title": "Notify your consumers",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "text": "allow the shopowner to notify the consumer, about .their due payment and the successfull completion of the payment."
         },
         {
             "icon": "fa fa-group",
             "title": "Add your customers",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "text": "Customer registration shall not be a mandatory step for raising a bill. The shopkeeper will be able to raise bills to unregistered customers, on the fly by entering the customer’s mobile number."
         },
         {
             "icon": "fa fa-credit-card",
             "title": "Get your payments cashless",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "text": "The shopkeeper can get the payment via Debit card,credit card,Net banking,Paytm"
         }
     ]
 }

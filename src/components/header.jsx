@@ -5,7 +5,7 @@ export const Header = (props) => {
     <header id='header'>
       <div className='intro'>
         <div className='overlay'>
-          <div className='container' style={{marginLeft:"0px"}}>
+          <div className='container' style={{ marginLeft: "50px" }}>
             <div className='row'>
               <div className='col-md-8 intro-text'>
                 <h1>
@@ -13,7 +13,7 @@ export const Header = (props) => {
                   <span></span>
                 </h1>
                 {/* <p>{props.data ? props.data.paragraph : 'Loading'}</p> */}
-                <ul style={{color:"white",fontSize:"2rem" , marginLeft: "35px",listStyle:"initial"}}>
+                <ul style={{ color: "white", fontSize: "2rem", marginLeft: "35px", listStyle: "initial" }}>
                   <li>Transform your business digitally</li>
                   <li>100% safe and secure</li>
                   <li>Easy to use</li>
