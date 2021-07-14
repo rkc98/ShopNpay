@@ -150,9 +150,9 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2021 designed and developed by kuruvila india all rights reserved {' '}
+            &copy; 2021 Designed and Developed by KURUVILA BPO INDIA PRIVATE LIMITED all rights reserved {' '}
             <a href='http://www.kuruvilaindia.com' rel='nofollow'>
-              Kuruvila india
+            KURUVILA BPO INDIA PRIVATE LIMITED
             </a>
           </p>
         </div>
