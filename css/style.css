@@ -85,8 +85,8 @@ hr {
 	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
 	color: rgba(75, 119, 216, 0.877);
-	font-size: 15px;
-	font-weight: 400;
+	font-size: 16px;
+	font-weight: 600;
 	padding: 8px 2px;
 	border-radius: 0;
 	margin: 9px 20px 0 20px;
@@ -187,8 +187,8 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	width: 100%;
 	padding: 0;
 	/* background:  url(../img/background.jpeg) center center no-repeat;  */
-	background-image: linear-gradient( to right bottom, rgba(150, 218, 229, 0.966),
-    rgba(58, 146, 218, 0.404)), url(../img/background.jpeg);
+	background-image: linear-gradient( to right bottom, rgba(74, 200, 219, 0.966),
+    rgba(11, 101, 175, 0.404)), url(../img/background.jpeg);
 	 background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -222,7 +222,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 header .intro-text {
 	padding-top: 350px;
 	padding-bottom: 200px;
-	text-align: center;
+	
 }
 /* Features Section */
 #features {
@@ -243,7 +243,7 @@ header .intro-text {
 }
 /* About Section */
 #about {
-	padding: 100px 0;
+	padding: 50px 0;
 }
 #about h3 {
 	font-size: 22px;
@@ -321,7 +321,7 @@ header .intro-text {
 	box-shadow: 10px 10px 10px rgba(0,0,0,.05);
 }
 #services h3 {
-	font-weight: 500;
+	font-weight: 900;
 	padding: 5px 0;
 	color: #fff;
 }
