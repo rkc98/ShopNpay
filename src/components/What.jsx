@@ -20,7 +20,7 @@ const What = () => {
                         </div>
                         <div className='col-xs-12 col-md-6'>
 
-                            <img src={whatimg} className='img-responsive' alt='' style={{ height: "400px" }} />{' '}
+                            <img src={whatimg} className='img-responsive' alt='' />{' '}
                         </div>
                     </div>
                 </div>

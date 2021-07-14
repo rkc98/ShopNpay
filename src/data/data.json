@@ -20,38 +20,38 @@
     "Services": [
         {
             "icon": "fa fa-money",
-            "name": "Real Time Transaction",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Customer Registration",
+            "text": "Shopkeeper register the customer with the valid mobile number."
         },
         {
             "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Billing",
+            "text": "Customer registration shall not be a mandatory step for raising a bill. The shopkeeper will be able to raise bills to unregistered customers, on the fly by entering the customer’s mobile number"
         },
         {
             "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Payment by customer",
+            "text": "Shopowner send the payment link to his customer to collect the payment.Customer pay the bill via credit card,debit card.net banking phone pay etc."
         },
         {
             "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Client report",
+            "text": ":Download and share reports with every transaction of the customers."
         },
         {
             "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Payment mode",
+            "text": "Accept payments from any app using Shopnpay QR. Send payment links to customers and receive timely payments."
         },
         {
             "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "24X7 Multi-lingual Support",
+            "text": ":Get round the clock customer support, available in multiple languages."
         }
     ],
     "Contact": {
         "address": "KURUVILA BPO INDIA PRIVATE LIMITED B 117, Eastern Business District, Neptune, LBS Marg, Bhandup West, Mumbai - 400078",
-        "phone": "00000000",
+        "phone": "9337423971",
         "email": "connect@kuruvilaindia.com"
     },
     "Features": [
@@ -63,7 +63,7 @@
         {
             "icon": "fa fa-bullhorn",
             "title": "Notify your consumers",
-            "text": "allow the shopowner to notify the consumer, about .their due payment and the successfull completion of the payment."
+            "text": "allow the shopowner to notify the consumer, about their due payment and the successfull completion of the payment."
         },
         {
             "icon": "fa fa-group",
@@ -73,7 +73,7 @@
         {
             "icon": "fa fa-credit-card",
             "title": "Get your payments cashless",
-            "text": "The shopkeeper can get the payment via Debit card,credit card,Net banking,Paytm"
+            "text": "The shopkeeper can get the payment via Debit card,credit card,Net banking,Paytm etc"
         }
     ]
 }
