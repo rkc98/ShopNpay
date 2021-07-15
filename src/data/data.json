@@ -31,12 +31,12 @@
         {
             "icon": "fa fa-money",
             "name": "Payment by customer",
-            "text": "Shopowner send the payment link to his customer to collect the payment.Customer pay the bill via credit card,debit card.net banking phone pay etc."
+            "text": "Shopowner send the payment link to his customer to collect the payment. Customer can pay there bills via credit card,debit card,net-banking phone pay etc."
         },
         {
             "icon": "fa fa-file-pdf-o",
             "name": "Client report",
-            "text": "Download and share reports with every transaction of the customers."
+            "text": "Download and share reports of every transaction to the customers."
         },
         {
             "icon": "fa fa-credit-card",
@@ -63,7 +63,7 @@
         {
             "icon": "fa fa-bullhorn",
             "title": "Notify your consumers",
-            "text": "allow the shopowner to notify the consumer, about their due payment and the successfull completion of the payment."
+            "text": "allows the shopowner to notify the consumer, about their due payment and the successfull completion of the payment."
         },
         {
             "icon": "fa fa-group",
