@@ -579,4 +579,9 @@ color: #777;
 #about img {
 	margin: 50px 0;
 }
+
 }
+/* .backgroundline::before{
+	background: #1E7A46;
+	content: "";
+} */
