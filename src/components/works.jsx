@@ -8,7 +8,7 @@ const Works = () => {
     <div className="container" style={{marginBottom:"40px",width:"90%"}}>
   <div className="row ">
       
-    <h2 style={{textAlign:"center" , fontWeight:"bold"}}>How ShopNpay Works</h2>
+    <h2 style={{textAlign:"center" , fontWeight:"bold", marginBottom:"40px"}}>How ShopNpay Works</h2>
     <div className="backgroundline">
     <div className="col-md-3" style={{textAlign:'center', fontWeight:"bold"}}>
     <BsFillPersonLinesFill style={iconstyle} />
