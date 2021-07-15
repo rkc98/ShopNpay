@@ -26,7 +26,7 @@
         {
             "icon": "fa fa-cart-arrow-down",
             "name": "Billing",
-            "text": "Customer registration shall not be a mandatory step for raising a bill. The shopkeeper will be able to raise bills to unregistered customers, on the fly by entering the customer’s mobile number"
+            "text": " The shopkeeper will be able to raise bills to register and unregistered customers by entering the customer’s mobile number,and send the payment link to customer mobile number"
         },
         {
             "icon": "fa fa-cloud-download",
@@ -36,7 +36,7 @@
         {
             "icon": "fa fa-language",
             "name": "Client report",
-            "text": ":Download and share reports with every transaction of the customers."
+            "text": "Download and share reports with every transaction of the customers."
         },
         {
             "icon": "fa fa-plane",
@@ -46,7 +46,7 @@
         {
             "icon": "fa fa-pie-chart",
             "name": "24X7 Multi-lingual Support",
-            "text": ":Get round the clock customer support, available in multiple languages."
+            "text": "Get round the clock customer support, available in multiple languages."
         }
     ],
     "Contact": {
@@ -58,7 +58,7 @@
         {
             "icon": "fa fa-comments-o",
             "title": "Share payments on message",
-            "text": "ShopNpay allow the shop owner the convenience to send a payment link to his customer to collect payment."
+            "text": "ShopNpay allow the shopowner the convenience to send a payment link to his customer to collect payment."
         },
         {
             "icon": "fa fa-bullhorn",
@@ -68,12 +68,12 @@
         {
             "icon": "fa fa-group",
             "title": "Add your customers",
-            "text": "Customer registration shall not be a mandatory step for raising a bill. The shopkeeper will be able to raise bills to unregistered customers, on the fly by entering the customer’s mobile number."
+            "text": "The shopkeeper will be able to raise bills to unregistered customers by entering the customer’s mobile number."
         },
         {
             "icon": "fa fa-credit-card",
             "title": "Get your payments cashless",
-            "text": "The shopkeeper can get the payment via Debit card,credit card,Net banking,Paytm etc"
+            "text": "The shopkeeper can get the payment via Debit card,credit card,Net banking,Paytm,phonepe etc"
         }
     ]
 }

@@ -1,5 +1,5 @@
 import React from 'react'
-import whatimg from '../images/what.jpg'
+import whatimg from '../images/img2.jpeg'
 const What = () => {
     return (
         <>
@@ -12,8 +12,9 @@ const What = () => {
                                 <h2>What is ShopNpay</h2>
                                 {/* <p>{props.data ? props.data.paragraph : 'loading...'}</p> */}
                                 <p>
-                                    ShopNPay is payment option offered by ShopNpay to give you and your customers a better experience online. Now that customers are demanding more choice and better experiences than ever before, it pays to have a system in place to give them a straightforward and streamlined checkout. At the very least, offering multiple checkout processes will make it easier for customers to buy.
-                                    The biggest benefit of ShopnPay is that it encourages regular future sales from your most dedicated clients. The easier it is for these people to make payments, the more likely they are to continue buying from your store. Because of that, and the incredible security that’s built into the service, there’s really no downside to using ShopNPay.
+                                ShopnPay is a payment option offered by Shopnpay to give you and your customer better experience online.ShopnPay help the shopowner to tranform their bussiness digitally.The main agenda behind the ShopnPay is to allow the shopkeeper to send the payment link to his customer to collect the payment.
+                                The main advantage of the ShopnPay is that payment link can also be send to the unregistered customer.Nowadays customers are demanding more choice and better experience than ever before,it pays to have a system in place to give them a straightforward and streamlined checkout.At the very least offering multiple checkout processes will make it easier for customer to buy.
+                                The biggest benefit of ShopnPay is that it encourages regular future sales from your most dedicated clients. The easier it is for these people to make payments, the more likely they are to continue buying from your store.
 
                                 </p>
                             </div>

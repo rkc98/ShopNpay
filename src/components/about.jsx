@@ -1,4 +1,4 @@
-import aboutus from '../images/Aboutus.jpg'
+import aboutus from '../images/img1.jpeg'
 export const About = (props) => {
   return (
     <div id='about'>
