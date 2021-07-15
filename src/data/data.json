@@ -24,27 +24,27 @@
             "text": "Shopkeeper register the customer with the valid mobile number."
         },
         {
-            "icon": "fa fa-cart-arrow-down",
+            "icon": "fa fa-file-text",
             "name": "Billing",
             "text": " The shopkeeper will be able to raise bills to register and unregistered customers by entering the customer’s mobile number,and send the payment link to customer mobile number"
         },
         {
-            "icon": "fa fa-cloud-download",
+            "icon": "fa fa-money",
             "name": "Payment by customer",
             "text": "Shopowner send the payment link to his customer to collect the payment.Customer pay the bill via credit card,debit card.net banking phone pay etc."
         },
         {
-            "icon": "fa fa-language",
+            "icon": "fa fa-file-pdf-o",
             "name": "Client report",
             "text": "Download and share reports with every transaction of the customers."
         },
         {
-            "icon": "fa fa-plane",
+            "icon": "fa fa-credit-card",
             "name": "Payment mode",
             "text": "Accept payments from any app using Shopnpay QR. Send payment links to customers and receive timely payments."
         },
         {
-            "icon": "fa fa-pie-chart",
+            "icon": "fa fa-language",
             "name": "24X7 Multi-lingual Support",
             "text": "Get round the clock customer support, available in multiple languages."
         }
