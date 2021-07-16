@@ -1,5 +1,5 @@
 import React from 'react'
-import { BsFillPersonLinesFill,BsFillPersonPlusFill,BsCreditCard,BsFillChatDotsFill,BsArrowRight } from "react-icons/bs"
+import { BsFillPersonLinesFill,BsFileEarmarkText,BsCreditCard,BsFillChatDotsFill,BsArrowRight } from "react-icons/bs"
 
 const Works = () => {
     
@@ -14,26 +14,27 @@ const Works = () => {
     <BsFillPersonLinesFill className="iconstyle" />
     <p>Register</p>
     </div>
-    <div className="col-md-1">
-      <BsArrowRight className="arrowiconstyle" />
-    </div>
-    <div className="col-md-2" style={{textAlign:'center', fontWeight:"bold"}}>
-      <BsFillPersonPlusFill className="iconstyle" />
-      <p>Add consumers</p>
-    </div>
+   
     <div className="col-md-1">
       <BsArrowRight className="arrowiconstyle"  />
     </div>
     <div className="col-md-2" style={{textAlign:'center', fontWeight:"bold"}}>
     <BsFillChatDotsFill className="iconstyle" />
-    <p>Send payment link</p>
+    <p>Send payment link to the consumer</p>
     </div>
     <div className="col-md-1">
       <BsArrowRight className="arrowiconstyle" />
     </div>
     <div className="col-md-2" style={{textAlign:'center', fontWeight:"bold"}}>
     <BsCreditCard className="iconstyle" />
-    <p>Receive your payments online</p>
+    <p>Receive your payments online through all payment modes</p>
+    </div>
+    <div className="col-md-1">
+      <BsArrowRight className="arrowiconstyle" />
+    </div>
+    <div className="col-md-2" style={{textAlign:'center', fontWeight:"bold"}}>
+      <BsFileEarmarkText className="iconstyle" />
+      <p>View all your payment receipts in one place</p>
     </div>
     </div>
     </div>
