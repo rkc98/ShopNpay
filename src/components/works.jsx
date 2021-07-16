@@ -33,7 +33,7 @@ const Works = () => {
     </div>
     <div className="col-md-2" style={{textAlign:'center', fontWeight:"bold"}}>
     <BsCreditCard className="iconstyle" />
-    <p>Recieve your payments online</p>
+    <p>Receive your payments online</p>
     </div>
     </div>
     </div>
