@@ -3,7 +3,7 @@ import { Navigation } from './components/navigation'
 import { Header } from './components/header'
 import { Features } from './components/features'
 import { About } from './components/about'
-import { Services } from './components/services'
+// import { Services } from './components/services'
 
 import { Contact } from './components/contact'
 import JsonData from './data/data.json'
@@ -26,11 +26,12 @@ const App = () => {
     <div>
       <Navigation />
       <Header data={landingPageData.Header} />
-      <Features data={landingPageData.Features} />
+      <Works />
+      
       <What />
       <About data={landingPageData.About} />
-      <Works />
-      <Services data={landingPageData.Services} />
+      <Features data={landingPageData.Features} />
+      {/* <Services data={landingPageData.Services} /> */}
       <Contact data={landingPageData.Contact} />
     </div>
   )
