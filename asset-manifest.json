@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shopnpay/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/shopnpay/static/js/main.d50fa4be.chunk.js",
-    "main.js.map": "/shopnpay/static/js/main.d50fa4be.chunk.js.map",
+    "main.js": "/shopnpay/static/js/main.4c3a7974.chunk.js",
+    "main.js.map": "/shopnpay/static/js/main.4c3a7974.chunk.js.map",
     "runtime-main.js": "/shopnpay/static/js/runtime-main.988f2904.js",
     "runtime-main.js.map": "/shopnpay/static/js/runtime-main.988f2904.js.map",
     "static/js/2.fe6a64b3.chunk.js": "/shopnpay/static/js/2.fe6a64b3.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.988f2904.js",
     "static/js/2.fe6a64b3.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.d50fa4be.chunk.js"
+    "static/js/main.4c3a7974.chunk.js"
   ]
 }
