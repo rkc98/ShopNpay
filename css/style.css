@@ -595,3 +595,8 @@ color: #777;
 	padding: 30px 0;
 	box-shadow: 3px 2px 10px rgba(0,0,0,1);
 }
+.arrowiconstyle{
+  font-size: 50px;
+  margin: 60% 35%;
+  color: darkblue;
+}
