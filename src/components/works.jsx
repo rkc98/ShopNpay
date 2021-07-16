@@ -13,7 +13,7 @@ const Works = () => {
     <div className="col-md-2" style={{textAlign:'center', fontWeight:"bold"}}>
     <p style={{fontSize:"13px"}}>Register</p>
     <BsFillPersonLinesFill className="iconstyle" />
-    <p>Register onboard</p>
+    <p>Register to get onboard</p>
     </div>
    
     <div className="col-md-1">
