@@ -597,6 +597,11 @@ color: #777;
 }
 .arrowiconstyle{
   font-size: 50px;
-  margin: 60% 35%;
+  margin: 100% 35%;
   color: darkblue;
+}
+
+.col-md-2 p{
+	color: black;	
+	font-size: 13px;
 }
