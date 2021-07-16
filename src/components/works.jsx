@@ -5,7 +5,7 @@ const Works = () => {
     
     return (
         <>
-    <div className="container" style={{marginBottom:"40px",width:"90%",marginTop:"40px"}}>
+    <div className="container" style={{width:"90%",marginTop:"40px"}}>
   <div className="row ">
       
     <h2 style={{textAlign:"center" , fontWeight:"bold", marginBottom:"40px"}}>How ShopNpay Works</h2>

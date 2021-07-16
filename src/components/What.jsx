@@ -3,7 +3,7 @@ import whatimg from '../images/img2.jpeg'
 const What = () => {
     return (
         <>
-            <div id='about'>
+            <div id='about' style={{paddingTop:"100px"}}>
                 <div className='container'>
                     <div className='row'>
 
