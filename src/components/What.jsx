@@ -1,5 +1,5 @@
 import React from 'react'
-import whatimg from '../images/img2.jpeg'
+import whatimg from '../images/what.svg'
 const What = () => {
     return (
         <>
