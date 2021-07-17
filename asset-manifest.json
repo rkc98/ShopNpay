@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shopnpay/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/shopnpay/static/js/main.a79fe268.chunk.js",
-    "main.js.map": "/shopnpay/static/js/main.a79fe268.chunk.js.map",
+    "main.js": "/shopnpay/static/js/main.5b0d7339.chunk.js",
+    "main.js.map": "/shopnpay/static/js/main.5b0d7339.chunk.js.map",
     "runtime-main.js": "/shopnpay/static/js/runtime-main.988f2904.js",
     "runtime-main.js.map": "/shopnpay/static/js/runtime-main.988f2904.js.map",
     "static/js/2.85d97668.chunk.js": "/shopnpay/static/js/2.85d97668.chunk.js",
@@ -10,14 +10,14 @@
     "index.html": "/shopnpay/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/shopnpay/static/css/main.6dea0f05.chunk.css.map",
     "static/js/2.85d97668.chunk.js.LICENSE.txt": "/shopnpay/static/js/2.85d97668.chunk.js.LICENSE.txt",
-    "static/media/img1.c82599e0.jpeg": "/shopnpay/static/media/img1.c82599e0.jpeg",
-    "static/media/img2.a7ee36fa.jpeg": "/shopnpay/static/media/img2.a7ee36fa.jpeg",
-    "static/media/logo.850ba036.jpeg": "/shopnpay/static/media/logo.850ba036.jpeg"
+    "static/media/img2.39d04ab8.svg": "/shopnpay/static/media/img2.39d04ab8.svg",
+    "static/media/logo.850ba036.jpeg": "/shopnpay/static/media/logo.850ba036.jpeg",
+    "static/media/what.8cbee1ca.svg": "/shopnpay/static/media/what.8cbee1ca.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.988f2904.js",
     "static/js/2.85d97668.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.a79fe268.chunk.js"
+    "static/js/main.5b0d7339.chunk.js"
   ]
 }
